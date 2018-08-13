@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Bengkos</string>
+    <string name="label_peta_bengkel">Peta Bengkel</string>
+    <string name="label_daftar_bengkel">Daftar Bengkel</string>
+    <string name="label_bengkel_saya">Bengkel Saya</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="label_keterangan_bengkel">Keterangan Bengkel</string>
+    <string name="slide_1_judul">Cari Bengkel</string>
+    <string name="slide_1_deskripsi">Bengkos memudahkan anda untuk mencari bengkel terdekat sekitar anda</string>
+    <string name="slide_2_judul">Layanan Harga</string>
+    <string name="slide_2_deskripsi">Melihat layanan dan harga untuk setiap bengkel tanpa perlu datang ke tempat</string>
+    <string name="slide_3_judul">Daftar</string>
+    <string name="slide_3_deskripsi">Bergabung dengan kami untuk mempermudah bisnis anda memperoleh keuntungan</string>
+    <string-array name="list_hari">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+        <item>Minggu</item>
+    </string-array>
+    <string-array name="list_jam">
+        <item>0.00</item>
+        <item>0.30</item>
+        <item>1.00</item>
+        <item>1.30</item>
+        <item>2.00</item>
+        <item>2.30</item>
+        <item>3.00</item>
+        <item>3.30</item>
+        <item>4.00</item>
+        <item>4.30</item>
+        <item>5.00</item>
+        <item>5.30</item>
+        <item>6.00</item>
+        <item>6.30</item>
+        <item>7.00</item>
+        <item>7.30</item>
+        <item>8.00</item>
+        <item>8.30</item>
+        <item>9.00</item>
+        <item>9.30</item>
+        <item>10.00</item>
+        <item>10.30</item>
+        <item>11.00</item>
+        <item>11.30</item>
+        <item>12.00</item>
+        <item>12.30</item>
+        <item>13.00</item>
+        <item>13.30</item>
+        <item>14.00</item>
+        <item>14.30</item>
+        <item>15.00</item>
+        <item>15.30</item>
+        <item>16.00</item>
+        <item>16.30</item>
+        <item>17.00</item>
+        <item>17.30</item>
+        <item>18.00</item>
+        <item>18.30</item>
+        <item>19.00</item>
+        <item>19.30</item>
+        <item>20.00</item>
+        <item>20.30</item>
+        <item>21.00</item>
+        <item>21.30</item>
+        <item>22.00</item>
+        <item>22.30</item>
+        <item>23.00</item>
+        <item>23.30</item>
+        <item>24.00</item>
+        <item>24.30</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_peta_bengkel"
+        android:icon="@drawable/ic_peta_bengkel_black_24dp"
+        android:title="@string/label_peta_bengkel" />
+
+    <item
+        android:id="@+id/nav_daftar_bengkel"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/label_daftar_bengkel" />
+
+    <item
+        android:id="@+id/nav_bengkel_saya"
+        android:icon="@drawable/ic_bengkel_saya_black_24dp"
+        android:title="@string/label_bengkel_saya" />
+
+</menu>
